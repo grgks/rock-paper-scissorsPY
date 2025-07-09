@@ -27,7 +27,7 @@ It serves as a simple yet complete example of combining user interaction, random
 
 ---
 
-## ⚡ Quick Start (Console Version)
+## ⚡ Quick Start 
 
 bash:
 # Clone the repository
