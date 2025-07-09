@@ -42,7 +42,6 @@ cd rock-paper-scissorsPY
 
 1. Run the game using:
 
-   - `python main.py` (console version)  
    - `python game.py` (GUI version)
 
 2. Choose your move:
@@ -65,4 +64,6 @@ cd rock-paper-scissorsPY
 - 📄 **Paper** covers 🪨 **Rock**
 - Same move = 🤝 **Draw**
 
+---
 
+Enjoy your time playing and sharpening your Python skills! 🎉🕹️
